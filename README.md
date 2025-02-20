@@ -22,6 +22,11 @@
   <a href="https://github.com/Adjara25/HS-MD-/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="250" /></a>
   <div>
 <div>
-  
+
+  ***
+  <a href="https://david-session-94tb.onrender.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="275"></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   ©HS-MD
