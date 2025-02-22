@@ -43,9 +43,6 @@ let dec = `👋 HEY ${pushname} THIS IS MY MENU 📍
 ┊ .video
 ┊ .fb
 ┊ .mediafire
-┊ .tiktiok
-┊ .twitter
-┊ .other
 
 ╭════════════⊷❍ 
 ┊ 3 || SEARCH MENU
