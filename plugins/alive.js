@@ -18,7 +18,7 @@ let des = `*HEY DEAR* ,${pushname}\n *I Am AlIVE NOW....! 🖐🏻*
 ┊
 ╰════════════⊷❍
 
-*- I AM ACD - MD V1 WHATSAPP USER BOT 🇦🇱*
+*- I AM HS - MD V2 WHATSAPP USER BOT 🇦🇱*
 
 
 > POWERED BY THE MAIN CYBER TEAM 🚩`
