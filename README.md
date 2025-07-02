@@ -18,7 +18,9 @@
   <a aria-label="Contact Us " href="https://wa.me/2250500525480" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/Contact Us-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
   </a>
-
+<a aria-label="Facebook" href="https://www.facebook.com/votreNomUtilisateur" target="_blank">
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
   <a href="https://github.com/Adjara25/HS-MD-/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="250" /></a>
   <div>
 <div>
